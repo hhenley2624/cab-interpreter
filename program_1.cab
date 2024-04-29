@@ -1,0 +1,5 @@
+sendit 'Clang and Bang!'
+let dumbbell=45
+sendit dumbbell
+let barbell=45+135
+sendit barbell

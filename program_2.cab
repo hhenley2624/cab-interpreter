@@ -1,0 +1,9 @@
+let heartrate=137
+if heartrate<100
+    sendit 'Low intensity, I think you can do better'
+else
+    if heartrate<150
+        sendit 'Moderate intensity, I think you can do better'
+    else
+        sendit 'High intensity now we're cooking with mustard gas!'
+end
